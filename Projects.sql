@@ -1,0 +1,10 @@
+insert into Projects (CorporateIdentityNumber, CompanyName) values ('2737843790', 'Wall Protection');
+insert into Projects (CorporateIdentityNumber, CompanyName) values ('8284311496', 'Epoxy Flooring');
+insert into Projects (CorporateIdentityNumber, CompanyName) values ('2111554391', 'Casework');
+insert into Projects (CorporateIdentityNumber, CompanyName) values ('2499354003', 'Structural & Misc Steel Erection');
+insert into Projects (CorporateIdentityNumber, CompanyName) values ('5437593929', 'Asphalt Paving');
+insert into Projects (CorporateIdentityNumber, CompanyName) values ('9356214379', 'RF Shielding');
+insert into Projects (CorporateIdentityNumber, CompanyName) values ('7548557094', 'Construction Clean and Final Clean');
+insert into Projects (CorporateIdentityNumber, CompanyName) values ('4755875013', 'Hard Tile & Stone');
+insert into Projects (CorporateIdentityNumber, CompanyName) values ('3670508783', 'Masonry & Precast');
+insert into Projects (CorporateIdentityNumber, CompanyName) values ('6962078935', 'Structural & Misc Steel Erection');
