@@ -1,0 +1,10 @@
+insert into Consultants (Id, SocialSecurityNumber, FirstName, LastName, HourlyRate, Specialty) values (1, '5842635615', 'Laïla', 'Ivakin', 1318, 'Blockchain Engineer');
+insert into Consultants (Id, SocialSecurityNumber, FirstName, LastName, HourlyRate, Specialty) values (2, '2986959857', 'Tú', 'Gossan', 4792, 'DevOps Engineer');
+insert into Consultants (Id, SocialSecurityNumber, FirstName, LastName, HourlyRate, Specialty) values (3, '5904556314', 'Cléopatre', 'Double', 4104, 'Software Developer');
+insert into Consultants (Id, SocialSecurityNumber, FirstName, LastName, HourlyRate, Specialty) values (4, '2098967500', 'Anaël', 'Lamborne', 3905, 'Business Analyst');
+insert into Consultants (Id, SocialSecurityNumber, FirstName, LastName, HourlyRate, Specialty) values (5, '2512462536', 'Intéressant', 'Ditter', 3968, 'DevOps Engineer');
+insert into Consultants (Id, SocialSecurityNumber, FirstName, LastName, HourlyRate, Specialty) values (6, '2282542304', 'Marie-noël', 'Viccary', 1845, 'Blockchain Engineer');
+insert into Consultants (Id, SocialSecurityNumber, FirstName, LastName, HourlyRate, Specialty) values (7, '4738376101', 'Miléna', 'Milbourne', 4963, 'Software Developer');
+insert into Consultants (Id, SocialSecurityNumber, FirstName, LastName, HourlyRate, Specialty) values (8, '1696957044', 'Lyséa', 'Tellenbrok', 1761, 'Business Analyst');
+insert into Consultants (Id, SocialSecurityNumber, FirstName, LastName, HourlyRate, Specialty) values (9, '5875475072', 'Angélique', 'Darragh', 2021, 'Software Developer');
+insert into Consultants (Id, SocialSecurityNumber, FirstName, LastName, HourlyRate, Specialty) values (10, '3539870555', 'Örjan', 'Marty', 3377, 'DevOps Engineer');

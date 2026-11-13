@@ -1,0 +1,10 @@
+insert into Clients (Id, CorporateIdentityNumber, CompanyName, Email, PhoneNumber) values (1, '5245385627', 'Fisher-Koch', 'bmalter0@stanford.edu', '+1-794-419-3813');
+insert into Clients (Id, CorporateIdentityNumber, CompanyName, Email, PhoneNumber) values (2, '2730143343', 'Leffler, McClure and O''Kon', 'myorkston1@fda.gov', '+53-204-334-8022');
+insert into Clients (Id, CorporateIdentityNumber, CompanyName, Email, PhoneNumber) values (3, '5103202875', 'Halvorson-Batz', 'hgodsal2@cdc.gov', '+351-418-399-0140');
+insert into Clients (Id, CorporateIdentityNumber, CompanyName, Email, PhoneNumber) values (4, '8167020452', 'Pollich-Powlowski', 'fhandyside3@weebly.com', '+86-605-806-4036');
+insert into Clients (Id, CorporateIdentityNumber, CompanyName, Email, PhoneNumber) values (5, '2293666972', 'Shanahan, Schultz and Kozey', 'fkennion4@archive.org', '+7-672-349-3923');
+insert into Clients (Id, CorporateIdentityNumber, CompanyName, Email, PhoneNumber) values (6, '8635205294', 'Mueller LLC', 'mllopis5@naver.com', '+86-620-915-3580');
+insert into Clients (Id, CorporateIdentityNumber, CompanyName, Email, PhoneNumber) values (7, '5412263305', 'Abbott, Bartoletti and Denesik', 'mderricoat6@amazon.co.jp', '+86-351-136-5798');
+insert into Clients (Id, CorporateIdentityNumber, CompanyName, Email, PhoneNumber) values (8, '3463160277', 'Welch-Corkery', 'ncockcroft7@businessinsider.com', '+56-798-659-4980');
+insert into Clients (Id, CorporateIdentityNumber, CompanyName, Email, PhoneNumber) values (9, '0852763190', 'Jakubowski-Carter', 'jbernardinelli8@examiner.com', '+46-667-559-2204');
+insert into Clients (Id, CorporateIdentityNumber, CompanyName, Email, PhoneNumber) values (10, '1812580134', 'Nitzsche Inc', 'kdavidescu9@stanford.edu', '+62-663-771-0023');
