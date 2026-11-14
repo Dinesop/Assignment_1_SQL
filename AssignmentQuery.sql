@@ -153,5 +153,11 @@ GROUP BY Clients.CompanyName
 UPDATE Consultants SET HourlyRate = 5000 WHERE FirstName = 'Åsa' AND LastName = 'Crollman'
 
 -- Fråga E: Skriv en DELETE-fråga som tar bort en kund (förutsatt att kunden inte har några aktiva uppdrag kopplade till sig).
+-- Verifiera Client Id
 SELECT * FROM Clients WHERE Clients.Id = 10 AND Clients.Id NOT IN (SELECT Projects.ClientsCorporateIdNr FROM Projects)
+
+-- Ta bort Client
 DELETE FROM Clients WHERE Clients.Id = 10 AND Clients.Id NOT IN (SELECT Projects.ClientsCorporateIdNr FROM Projects)
+
+-- Verifiera att det fungerade
+SELECT * FROM Clients WHERE Clients.Id = 10 AND Clients.Id NOT IN (SELECT Projects.ClientsCorporateIdNr FROM Projects)

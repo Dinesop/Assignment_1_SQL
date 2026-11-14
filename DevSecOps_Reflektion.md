@@ -1,4 +1,4 @@
 1. Sec: Om din databas nås via en publik webbapplikation, på vilket sätt skyddar du systemet så att en angripare inte kan skriva skadlig SQL-kod i ett inmatningsfält och radera hela din databas (SQL Injection)?
 	Aldrig göra konkatenering direkt på användarinput! MEd parametrisering separerar vi kommandots struktur från datan och använder en platshållare ex @Email för att kompilera frågeträdet. När vi väl klistrar in användarinput behandlas det strikt som en literal. 
 2. Ops: Om FailSafe IT växer till tusentals kunder och miljontals uppdrag, vilken databasfunktion bör du implementera på tabellerna för att säkerställa att sökningar efter specifika organisationsnummer fortfarande går blixtsnabbt?
-	Index.
+	Index. Finns olika typer av index men fördelen är att det snabbar upp sökningar i databasen, med nackdelen att create, alter, update och delete tar längre tid.

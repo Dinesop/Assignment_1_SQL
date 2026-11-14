@@ -71,3 +71,4 @@ Okay, after a lot of back and forth I got it to work. It is honestly quite simpl
 The issue was a combo of me remembering the wrong keynames and writing the wrong syntax. 
 Okay I had some issues with C question too, mostly because I am a bit tired and don't fully know what I am doing.
 Question D and E done!
+Reflection questions answered!
