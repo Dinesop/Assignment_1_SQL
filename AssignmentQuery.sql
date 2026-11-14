@@ -152,3 +152,6 @@ GROUP BY Clients.CompanyName
 -- Fråga D: Uppdatera timpriset för en specifik konsult genom en UPDATE-fråga.
 UPDATE Consultants SET HourlyRate = 5000 WHERE FirstName = 'Åsa' AND LastName = 'Crollman'
 
+-- Fråga E: Skriv en DELETE-fråga som tar bort en kund (förutsatt att kunden inte har några aktiva uppdrag kopplade till sig).
+SELECT * FROM Clients WHERE Clients.Id = 10 AND Clients.Id NOT IN (SELECT Projects.ClientsCorporateIdNr FROM Projects)
+DELETE FROM Clients WHERE Clients.Id = 10 AND Clients.Id NOT IN (SELECT Projects.ClientsCorporateIdNr FROM Projects)
